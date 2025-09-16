@@ -1,0 +1,16 @@
+# OpenWeather API key
+TOMORROWIO_API_KEY=your_actual_openweather_api_key_here
+
+# Wind speed thresholds (in meters per second or km/h depending on API response)
+WIND_SPEED_SAFE=10
+WIND_SPEED_CAUTION=20
+WIND_SPEED_DANGEROUS=30
+
+# Visibility thresholds (in kilometers)
+VISIBILITY_SAFE=10
+VISIBILITY_CAUTION=3
+VISIBILITY_DANGEROUS=1
+
+# Temperature thresholds (in Celsius)
+TEMP_MIN_SAFE=-10
+TEMP_MAX_SAFE=40
