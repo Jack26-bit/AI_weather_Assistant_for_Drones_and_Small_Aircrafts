@@ -2,32 +2,32 @@
 A comprehensive weather analysis system designed specifically for drone operators and small aircraft pilots. This assistant provides real-time weather monitoring, flight safety analysis, and intelligent recommendations to ensure safe flight operations.
 ## Features
 
-### 🌤️ Weather Monitoring
+###  Weather Monitoring
 - Real-time weather data from OpenWeatherMap API
 - Detailed weather conditions including temperature, humidity, pressure
 - Wind analysis with speed, direction, and gust information
 - Visibility and precipitation monitoring
 - Cloud cover analysis
 
-### ✈️ Flight Safety Analysis
+###  Flight Safety Analysis
 - Intelligent flight safety scoring (0-100 scale)
 - Multi-factor analysis considering wind, visibility, temperature, and precipitation
 - Density altitude calculations for performance planning
 - Customizable safety thresholds for different aircraft types
 
-### 🚨 Weather Alerts System
+###  Weather Alerts System
 - Automatic detection of dangerous weather conditions
 - Multi-level alert system (Info, Warning, Critical, Emergency)
 - Real-time monitoring for thunderstorms, high winds, and low visibility
 - Custom alert thresholds
 
-### 📊 Data Visualization
+###  Data Visualization
 - Rich console interface with color-coded displays
 - Formatted weather tables and panels
 - Multi-location weather comparison
 - Historical weather query tracking
 
-### 🔮 Forecasting
+###  Forecasting
 - 5-day weather forecast with hourly breakdowns
 - Future flight condition predictions
 - Trend analysis for flight planning
@@ -73,10 +73,10 @@ A comprehensive weather analysis system designed specifically for drone operator
 ### Example Usage
 
 ```bash
-🛩️  Enter command: weather New York
-🛩️  Enter command: forecast London, UK  
-🛩️  Enter command: multi
-🛩️  Enter command: alerts
+  Enter command: weather New York
+  Enter command: forecast London, UK  
+  Enter command: multi
+  Enter command: alerts
 ```
 
 ## Flight Safety Scoring
@@ -91,10 +91,10 @@ The system calculates a comprehensive flight safety score (0-100) based on:
 
 ### Safety Levels
 
-- **SAFE (80-100)** ✅ - Ideal conditions for flight
-- **CAUTION (60-79)** ⚠️ - Proceed with extra care
-- **DANGEROUS (30-59)** ❌ - Flight not recommended
-- **NO FLY (0-29)** 🚫 - Unsafe conditions
+- **SAFE (80-100)**  - Ideal conditions for flight
+- **CAUTION (60-79)**  - Proceed with extra care
+- **DANGEROUS (30-59)**  - Flight not recommended
+- **NO FLY (0-29)**  - Unsafe conditions
 
 ## Configuration
 
@@ -153,7 +153,7 @@ The system automatically monitors for:
 
 ## Safety Considerations
 
-⚠️ **IMPORTANT SAFETY NOTICE**
+ **IMPORTANT SAFETY NOTICE**
 
 This tool is designed to assist with flight planning and weather analysis, but should not be the sole source for flight safety decisions. Always:
 
